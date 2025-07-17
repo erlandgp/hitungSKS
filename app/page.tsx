@@ -46,7 +46,7 @@ export default function Component() {
                     <li>isi total ipk kamu saat ini</li>
                     <li>lalu klik button tambah matkul</li>
                     <li>isi jumlah sks per mata kuliah kamu dan bobot nilai yang kamu dapat (A,AB,B,BC,C,D,E)</li>
-                    <li>jika matkul ini kamu mengulang, centang opsi Ulang, lalu mengisi nilai lama kamu</li>
+                    <li>jika salah satu mata kuliah kamu mengulang, centang opsi Ulang, lalu mengisi nilai lama kamu</li>
                     <li>klik button hitung</li>
                     <li>lalu hasil ips dan ipk kamu akan muncul di bawah</li>
                   </ul>
