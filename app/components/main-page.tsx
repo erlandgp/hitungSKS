@@ -25,7 +25,7 @@ export default function MainPage() {
                   value="matkul"
                   className="text-base font-medium data-[state=active]:bg-blue-600 data-[state=active]:text-white"
                 >
-                  Matkul
+                  Mata Kuliah
                 </TabsTrigger>
                 <TabsTrigger
                   value="semester"
