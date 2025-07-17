@@ -31,7 +31,7 @@ export default function Component() {
             <p className="text-lg text-center font-medium text-blue-700">Selamat Datang di hitungSKS</p>
 
             <p className="text-center">
-              disini kamu bisa menghitung ips dan ipk kamu berdasarkan jumlah sks dan bobot nilai matkul kamu, tools ini
+              disini kamu bisa menghitung ips dan ipk kamu berdasarkan jumlah sks dan bobot nilai mata kuliah kamu, tools ini
               bisa membantu kamu agar tau jumlah ips dan ipk ketika di dinusvere/mhs.dinus belum terupdate
             </p>
 
@@ -40,12 +40,12 @@ export default function Component() {
 
               <div className="space-y-4">
                 <div>
-                  <h3 className="font-medium text-blue-700 mb-2">Tab Matkul:</h3>
+                  <h3 className="font-medium text-blue-700 mb-2">Tab Mata Kuliah:</h3>
                   <ul className="list-disc list-inside space-y-1 ml-4 text-sm">
                     <li>isi jumlah total sks kamu saat ini</li>
                     <li>isi total ipk kamu saat ini</li>
                     <li>lalu klik button tambah matkul</li>
-                    <li>isi jumlah sks matkul kamu dan bobot nilai yang kamu dapat (A,AB,B,BC,C,D,E)</li>
+                    <li>isi jumlah sks per mata kuliah kamu dan bobot nilai yang kamu dapat (A,AB,B,BC,C,D,E)</li>
                     <li>jika matkul ini kamu mengulang, centang opsi Ulang, lalu mengisi nilai lama kamu</li>
                     <li>klik button hitung</li>
                     <li>lalu hasil ips dan ipk kamu akan muncul di bawah</li>
