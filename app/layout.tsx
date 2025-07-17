@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Hitung SKS',
-  description: 'Created wit v0',
+  description: 'Hitung IPK Kamu!',
   generator: 'v0.dev',
 }
 
