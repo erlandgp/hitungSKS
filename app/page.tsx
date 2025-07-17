@@ -32,7 +32,7 @@ export default function Component() {
 
             <p className="text-center">
               disini kamu bisa menghitung ips dan ipk kamu berdasarkan jumlah sks dan bobot nilai mata kuliah kamu, tools ini
-              bisa membantu kamu agar tau jumlah ips dan ipk ketika di dinusvere/mhs.dinus belum terupdate
+              bisa membantu kamu agar tau jumlah ips dan ipk ketika di dinusverse/mhs.dinus belum terupdate
             </p>
 
             <div className="bg-blue-50 p-6 rounded-lg">
